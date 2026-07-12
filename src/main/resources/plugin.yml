@@ -1,6 +1,6 @@
 name: NoPluginsFound
 version: 1.0.0
-main: com.nopluginsfound.NoPluginsFound
+main: com.yoyoyo18.nopluginsfound.NoPluginsFound
 api-version: 1.21
-author: YourName
+author: yoyoyo18
 description: Blocks hacked clients like Meteor from indexing server plugins.
