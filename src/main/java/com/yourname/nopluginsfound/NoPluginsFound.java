@@ -1,4 +1,4 @@
-package com.yourname.nopluginsfound;
+package com.yoyoyo18.nopluginsfound;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
