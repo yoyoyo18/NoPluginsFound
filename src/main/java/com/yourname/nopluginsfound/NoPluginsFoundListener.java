@@ -1,4 +1,4 @@
-package com.yourname.nopluginsfound;
+package com.nopluginsfound;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
